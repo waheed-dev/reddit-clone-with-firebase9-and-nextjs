@@ -14,7 +14,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main >
-     <div>hi haha</div>
+     <div>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto aspernatur, assumenda ea eum laborum maxime nobis, numquam possimus, praesentium quasi sint temporibus. Earum harum ipsam molestias, porro quod saepe suscipit.</div>
       </main>
     </>
   )
